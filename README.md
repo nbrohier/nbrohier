@@ -1,7 +1,5 @@
 # 👋 Hi, I’m @nbrohier
 
-##Just testng out how to write a readme.
+Just learning how to use GitHub
 
-___________________________________________
 
-Does this work?
